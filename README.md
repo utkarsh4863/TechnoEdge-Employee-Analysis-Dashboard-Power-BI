@@ -19,5 +19,5 @@ This Power BI project provides an insightful analysis of employee data from Tech
 
 This dashboard was created to provide HR and management with clear insights into employee demographics, performance indicators, and hiring patterns. It helps in data-driven decision-making.
 
-📷 Screenshot:
+📷 Screenshot:https://github.com/utkarsh4863/TechnoEdge-Employee-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202025-06-26%20175826.png
 
