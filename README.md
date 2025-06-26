@@ -20,3 +20,4 @@ This Power BI project provides an insightful analysis of employee data from Tech
 This dashboard was created to provide HR and management with clear insights into employee demographics, performance indicators, and hiring patterns. It helps in data-driven decision-making.
 
 📷 Screenshot:
+
